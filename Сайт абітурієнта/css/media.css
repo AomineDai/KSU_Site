@@ -1,0 +1,212 @@
+@media (max-width: 1200px){
+	.foto_1, .foto_2, .foto_3{
+	    width: 298.5px;
+        height: 206.5px;
+        border-radius: 40px;
+    }
+    .math, .mathandph, .phisics, .medium, .engee, .comps{
+	    width: 300px;
+	    height: 282px;
+    }
+    .loop{
+	    width: 450px;
+	    height: 348px;
+    }
+    .we_1{
+	    max-width: 450px;
+	    height: 323px;
+	    border-radius: 60px;
+    }
+    .we_3, .we_2{
+	    width: 450px;
+	    height: 250px;
+    }
+    .footer_photo{
+	    width: 450px;
+	    height: 485px;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px){
+	.button a{
+		padding: 10px;
+		font-size: 18px;
+	}
+	.bg_foto{
+	    max-width: 344px;
+        height: 344px;
+    }
+    .we br{
+    	display: none;
+    }
+    .we_1{
+	    max-width: 525px;
+	    height: 400px;
+	    border-radius: 60px;
+    }
+    .foto_1, .foto_2, .foto_3{
+	    width: 228.5px;
+        height: 156.5px;
+        border-radius: 40px;
+    }
+    .language{
+    	width: 354px;
+    	height: 236px;
+    }
+     .we_2{
+    	width: 344px;
+	    height: 186px;
+    }
+    .we_3{
+    	width: 708px;
+	    height: 570px;
+    }
+    .math, .mathandph, .phisics, .medium, .engee, .comps{
+	    width: 230px;
+	    height: 212px;
+    }
+    .loop{
+	    width: 344px;
+	    height: 397px;
+    }
+    .special{
+    	font-size: 16px;
+    }
+    .Specialiti{
+    	font-size: 16px;
+    }
+    .NMT_Photo, .osNMT_Photo, .zayava_Photo, .konk_Photo{
+    	width: 344px;
+    	height: 148px;
+    }
+    .passport{
+	    width: 344px;
+	    height: 231px;
+    }
+    .footer_photo{
+    	width: 354px;
+    	height: 419px;
+    }
+}
+@media (min-width: 576px) and (max-width: 768px){
+	.menu{
+		display: none;
+	}
+	.header_txt br{
+		display: none;
+	}
+	.bg_foto{
+		display: none;
+	}
+	.button a{
+		padding: 10px;
+		font-size: 14px;
+	}
+	.foto_1, .foto_2, .foto_3{
+	    width: 375.5px;
+        height: 303.5px;
+        border-radius: 40px;
+        margin-left: 10%;
+        margin-top: 10px;
+    }
+    .language, .we_1{
+    	margin-top: 15px;
+    	margin-left: 10%;
+    }
+    .we_2, .we_3{
+    	margin-top: 10px;
+    	margin-bottom: 10px;
+    }
+    .loop{
+    	margin-left: 7.5%;
+    }
+    .special{
+    	font-size: 16px;
+    }
+    .Specialiti{
+    	font-size: 16px;
+    }
+    h2{
+    	font-size: 45px;
+    }
+    .NMT_Photo, .osNMT_Photo, .zayava_Photo, .konk_Photo{
+    	margin-left: 5%;
+    }
+    .passport{
+    	margin-left: 10%;
+    	margin-bottom: 30px;
+    }
+    .footer_photo{
+    	display: none;
+    }
+}
+@media (max-width: 576px){
+	.menu{
+		display: none;
+	}
+    .button a{
+        padding: 10px;
+        font-size: 18px;
+    }
+	.header_txt br{
+		display: none;
+	}
+	.bg_foto{
+		display: none;
+	}
+	.we_1{
+	    max-width: 350px;
+	    height: 225px;
+	    border-radius: 15px;
+	    margin-top: 10px;
+    }
+    .foto_1, .foto_2, .foto_3{
+    	width: 350px;
+    	height: 253px;
+    	margin-top: 10px;
+    }
+    .language, .we_1{
+    	width: 350px;
+    	height: 236px;
+    	margin-top: 10px;
+    }
+    .we{
+    	font-size: 16px;
+    }
+    h2{
+    	font-size: 36px;
+    }
+    .we_2, .we_3{
+    	width: 344px;
+	    height: 186px;
+	    margin-top: 10px;
+    }
+    .special{
+    	font-size: 16px;
+    }
+    .Specialiti{
+    	font-size: 16px;
+    }
+    h5{
+    	font-size: 18px;
+    }
+    .NMT{
+    	font-size: 16px;
+    }
+    .NMT_Photo, .osNMT_Photo, .zayava_Photo, .konk_Photo{
+    	width: 344px;
+    	height: 148px;
+    }
+    .passport{
+	    width: 344px;
+	    height: 231px;
+    }
+    .footer h2{
+    	font-size: 36px;
+    }
+    .footer_photo{
+    	display: none;
+    }
+    .footer p{
+    	font-size: 16px;
+    }
+}
